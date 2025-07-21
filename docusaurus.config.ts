@@ -3,8 +3,6 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
-const organizationName = 'jackLDyer';
-const projectName = 'wow-docs';
 
 const config: Config = {
   title: 'Built Diff PvP Guides',
@@ -17,15 +15,17 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: `https://${organizationName}.github.io`,
+  url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: `/${projectName}/`,
+  baseUrl: '/wow-docs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName, // Usually your GitHub org/user name.
-  projectName, // Usually your repo name.
+  organizationName: 'jackLDyer', // Usually your GitHub org/user name.
+  projectName: 'wow-docs', // Usually your repo name.
+  deploymentBranch: 'gh-pages', // Branch that GitHub pages will deploy from.
+  trailingSlash: false, // Whether to add a trailing slash to URLs.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
