@@ -18,12 +18,12 @@ const config: Config = {
   url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/wow-docs/',
+  baseUrl: '/built-diff-guides/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'jackLDyer', // Usually your GitHub org/user name.
-  projectName: 'wow-docs', // Usually your repo name.
+  projectName: 'built-diff-guides', // Usually your repo name.
   deploymentBranch: 'gh-pages', // Branch that GitHub pages will deploy from.
   trailingSlash: false, // Whether to add a trailing slash to URLs.
 
@@ -47,7 +47,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-          `https://github.com/jackLDyer/wow-docs/tree/main/`,
+          `https://github.com/jackLDyer/built-diff-guides/tree/main/`,
         },
         blog: {
           showReadingTime: true,
@@ -58,7 +58,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-          `https://github.com/jackLDyer/wow-docs/tree/main/`,
+          `https://github.com/jackLDyer/built-diff-guides/tree/main/`,
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -89,7 +89,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/jackLDyer/wow-docs',
+          href: 'https://github.com/jackLDyer/built-diff-guides',
           label: 'GitHub',
           position: 'right',
         },
