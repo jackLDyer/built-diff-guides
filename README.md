@@ -26,6 +26,8 @@ This command generates static content into the `build` directory and can be serv
 
 ## Deployment
 
+Project is automatically deployed upon a merge to `main`. Additionally, pull requests have a branch check to ensure it is deployable. However if you require to deploy from local build please see below.
+
 Using SSH:
 
 ```bash
