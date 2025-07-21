@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwow_docs=self.webpackChunkwow_docs||[]).push([[6678],{6952:s=>{s.exports=JSON.parse('{"tags":[{"label":"siteupdate","permalink":"/wow-docs/blog/tags/siteupdate","count":1}]}')}}]);

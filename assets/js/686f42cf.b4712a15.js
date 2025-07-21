@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwow_docs=self.webpackChunkwow_docs||[]).push([[7996],{9402:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/wow-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

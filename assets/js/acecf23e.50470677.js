@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwow_docs=self.webpackChunkwow_docs||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/wow-docs/blog","blogTitle":"Blog","authorsListPath":"/wow-docs/blog/authors"}')}}]);

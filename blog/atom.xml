@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/wow-docs/blog</id>
+    <title>Built Diff PvP Guides Blog</title>
+    <updated>2025-07-21T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/wow-docs/blog"/>
+    <subtitle>Built Diff PvP Guides Blog</subtitle>
+    <icon>https://github.com/wow-docs/img/logo.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[First Blog Post]]></title>
+        <id>https://github.com/wow-docs/blog/first-blog-post</id>
+        <link href="https://github.com/wow-docs/blog/first-blog-post"/>
+        <updated>2025-07-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I am creating this site to help people learn World of Warcraft Classic Arena.]]></summary>
+        <content type="html"><![CDATA[<p>I am creating this site to help people learn World of Warcraft Classic Arena.</p>
+<p>Please help me improve this site by visiting our discord and providing feedback.</p>]]></content>
+        <author>
+            <name>Jack Dyer</name>
+            <uri>https://github.com/jackLDyer</uri>
+        </author>
+        <category label="siteupdate" term="siteupdate"/>
+    </entry>
+</feed>
