@@ -89,7 +89,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://https://github.com/jackLDyer/wow-docs',
           label: 'GitHub',
           position: 'right',
         },
