@@ -1,6 +1,6 @@
 # Website
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+[This website](https://jackldyer.github.io/built-diff-guides/) is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 ## Installation
 
